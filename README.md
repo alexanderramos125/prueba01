@@ -13,7 +13,9 @@
 4. caracas
 
 # colores
-1. naranja
-2. morado
-3. celeste
-4. cafe
+
+1. verde
+2. rojo
+3. azul
+4. amarillo
+
