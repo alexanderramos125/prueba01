@@ -11,3 +11,9 @@
 2. tokio
 3. berlin
 4. caracas
+
+# colores
+1. naranja
+2. morado
+3. celeste
+4. cafe
